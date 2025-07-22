@@ -1,2 +1,0 @@
-.\gradlew generateAvroJava
-.\gradlew bootRun
